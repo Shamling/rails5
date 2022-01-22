@@ -1,5 +1,8 @@
 # README
 
+rails test .\test\controllers\books_controller_test.rb RAILS_ENV=test
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
