@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  published_on: 2022-01-21
+  title: 'David Copperfield'
+  published_on: 1850-11-01
 
 two:
-  title: MyString
-  published_on: 2022-01-21
+  title: 'Great Expectations'
+  published_on: 1861-01-01
